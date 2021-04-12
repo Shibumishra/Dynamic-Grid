@@ -1,0 +1,38 @@
+.brand-card{
+    box-shadow: 0 0 8px #ccc;
+    margin: 10px;
+    width: 18%;
+}
+.brand-title{
+    font-size: 18px;
+    margin: 0;
+    padding: 5px;
+}
+.brand-name{
+    font-size: 18px;
+    margin: 0;
+    padding: 5px;
+    color: rgb(86, 88, 88);
+}
+.brand-price{
+    font-size: 18px;
+    margin: 0;
+    padding: 5px;
+    color: rgb(7, 137, 146);
+}
+.brand-img{
+    width: 100%;   
+}
+.man-women{
+    margin-left: 50px;
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: 600;
+    color: rgb(99, 95, 91);
+}
+#brand-grid{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 150px;
+    margin-top: -120px;
+} 
